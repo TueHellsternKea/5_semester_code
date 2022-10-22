@@ -1,2 +1,2 @@
-# 5_semester_code
-5 semester kode
+# 5. Semester Code
+My code files for electives
