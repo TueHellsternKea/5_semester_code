@@ -24,12 +24,14 @@ We will try to predict whether or not a bank customer will churn in the future, 
 - NumOfProduct < 2
 - Age 25-64
 - Has Credit Card
+- Student & retired customers in Germany & France
 
 ## More Loyal Customers
 - Spain
 - Male
 - NumOfProduct >= 2
 - Active member
+- Student & retired customers in Spain
 
 # Data
 The data for this excampel are from [https://www.kaggle.com/datasets/hj5992/bank-churn-modelling](https://www.kaggle.com/datasets/hj5992/bank-churn-modelling)
