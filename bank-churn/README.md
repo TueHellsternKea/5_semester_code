@@ -18,6 +18,14 @@ We will try to predict whether or not a bank customer will churn in the future, 
 - Is active member
 - Estimated Salary
 
+## Potential churn factors?
+
+## Country
+![](https://miro.medium.com/max/494/1*PV6hJtV4T_wNhluhLw69iQ.png)
+
+Country distribution on churners
+It is seen that customer churn rates in Germany and France are 2 times higher than in Spain.
+
 ## Less Loyal Customers
 - Germany & France
 - Female
