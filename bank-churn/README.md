@@ -6,5 +6,30 @@ This is an exampel for solving classification problems with Python’s Scikit-le
 
 We will try to predict whether or not a bank customer will churn in the future, base on the data.
 
-## Data
+## Identify potential churn factors
+- Credit Score
+- Country
+- Gender
+- Age group
+- Tenure
+- Balance
+- Number of products
+- Has credit card
+- Is active member
+- Estimated Salary
+
+## Less Loyal Customers
+- Germany & France
+- Female
+- NumOfProduct < 2
+- Age 25-64
+- Has Credit Card
+
+## More Loyal Customers
+- Spain
+- Male
+- NumOfProduct >= 2
+- Active member
+
+# Data
 The data for this excampel are from [https://www.kaggle.com/datasets/hj5992/bank-churn-modelling](https://www.kaggle.com/datasets/hj5992/bank-churn-modelling)
