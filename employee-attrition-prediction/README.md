@@ -1,6 +1,6 @@
 # Employee Attrition
 
-![](https://pbs.twimg.com/media/FGjFTM6XMAEbBYo?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/FGjFTM6XMAEbBYo)
 
 Employee attrition refers to an employees voluntary or involuntary departure from an organization. The cost of employee attrition can be huge since replacing human resources with desired skill sets in a limited time is a difficult and costly task.
 
